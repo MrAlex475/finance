@@ -19,4 +19,5 @@ https://www.ons.gov.uk/economy/inflationandpriceindices
 
 ## FIRE Calculators
 [FIRE Calculator - Find Out When You Can Retire](https://firecalculator.club/calculator)
+
 [FI Calc](https://ficalc.app/)
