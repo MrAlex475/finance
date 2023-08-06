@@ -1,5 +1,7 @@
 # Finance
 
+[My experience with my home purchase](/HomePurchase.md)
+
 ## Reading
 https://monevator.com/
 
