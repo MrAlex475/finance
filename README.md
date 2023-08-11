@@ -28,7 +28,9 @@ What does mine include:
 * **Wage** - Pre and post Tax, Tax per Band, National Insurance, Student Loan. Did my employer or HMRC cock it up?
 * **Bank Accounts** - Current accounts, investment accounts - Just a current standing and projected interest
 * **Savings** - All the long term pre-retirement savings - LISA, Cash ISA, Stocks and Shares ISA
-* **ShareCalc** - For when your monthly investments needs a spreadsheet to calculate how much of each fund to buy
+* **House** - Mortgage payments, Overpayments, Interest, End of fixed rate, Equity, Loan to Value
+* **Pension** - Current value, payments (Employer and Employee), Projected value at retirement, National Insurance Record
+* **ShareCalc** - For when your monthly investments needs a spreadsheet to calculate how much of each fund to buy every month
 * **Drawdown** - Estimates of spending the money saved such as ISA or pensions. Does it run out before I die?
 * **Outgoings** - Bills - Mortgage/Rent, Council Tax, Season ticket, Average shopping, Insurance, Boiler Cover, Gas, Electric, Water, Internet
 * **Budget** - A centralised analysis of all previous years. Is my spending going up, is lifestype creep in check?
