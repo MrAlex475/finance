@@ -8,7 +8,7 @@ https://ukpersonal.finance/flowchart/
  [Money Saving Expert Credit Club](https://clubs.moneysavingexpert.com/creditclub/) - Free Money Saving Expert Report that also gives you your Experian Credit Report for free
 
 ## Reading
-[Monevator](https://monevator.com/)  - Both a weekly roundup of finance news as well as guides and 
+[Monevator](https://monevator.com/)  - Both a weekly roundup of finance news as well as guides about making, saving, and investing money 
 
 https://ukpersonal.finance/ - A great set of resources put together by thousands of individuals from /r/UKPersonalFinance
 
