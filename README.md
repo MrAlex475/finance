@@ -12,10 +12,8 @@ https://ukpersonal.finance/flowchart/
 
 https://ukpersonal.finance/ - A great set of resources put together by thousands of individuals from /r/UKPersonalFinance
 
-## Tools
-[Cheapest broker list](https://monevator.com/compare-uk-cheapest-online-brokers/)
-
-[Free Credit Report](https://www.moneysavingexpert.com/creditclub/)
+## Investing Tools
+[Cheapest broker list](https://monevator.com/compare-uk-cheapest-online-brokers/) - A regularly update list of the cheapest investment platforms
 
 ## Home purchase
 [My experience with my home purchase](/HomePurchase.md)
