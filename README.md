@@ -21,6 +21,19 @@ https://ukpersonal.finance/ - A great set of resources put together by thousands
 ## Investing Tools
 [Cheapest broker list](https://monevator.com/compare-uk-cheapest-online-brokers/) - A regularly update list of the cheapest investment platforms
 
+### Spreadsheets
+One of the most powerful tools in finance
+
+What does mine include: 
+* **Wage** - Pre and post Tax, Tax per Band, National Insurance, Student Loan. Did my employer or HMRC cock it up?
+* **Bank Accounts** - Current accounts, investment accounts - Just a current standing and projected interest
+* **Savings** - All the long term pre-retirement savings - LISA, Cash ISA, Stocks and Shares ISA
+* **ShareCalc** - For when your monthly investments needs a spreadsheet to calculate how much of each fund to buy
+* **Drawdown** - Estimates of spending the money saved such as ISA or pensions. Does it run out before I die?
+* **Outgoings** - Bills - Mortgage/Rent, Council Tax, Season ticket, Average shopping, Insurance, Boiler Cover, Gas, Electric, Water, Internet
+* **Budget** - A centralised analysis of all previous years. Is my spending going up, is lifestype creep in check?
+* **Budget <year>** - A list of all purchases and spending with catergories to understand how much money is spent and what could be cut down
+
 ## Portfolio Examples
 
 [Investment portfolio examples: asset allocation models for beginners](https://monevator.com/investment-portfolio-examples/)
